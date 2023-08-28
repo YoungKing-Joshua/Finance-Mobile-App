@@ -1,17 +1,5 @@
 # Bank Mobile App
 
-A new Flutter project. 
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![LOGIN](https://github.com/YoungKing-Joshua/Finance-Mobile-App/assets/110766878/e73b8932-6c3e-48e8-a195-ffc51fe92150)
+![PROFILE](https://github.com/YoungKing-Joshua/Finance-Mobile-App/assets/110766878/84e1726e-6e9d-4499-a2da-8e662cca6a31)
+![HOME](https://github.com/YoungKing-Joshua/Finance-Mobile-App/assets/110766878/30bbc8ff-353f-4cf3-8057-7b81dd9dea6c)
